@@ -22,6 +22,10 @@ La función resolver() es la parte principal del solucionador de Sudoku. La func
 
 La función main() es la función principal del código. En esta función, se inicializa la matriz de Sudoku como una lista de 81 elementos, se llama a la función resolver() para encontrar la solución y se llama a la función imprimir_sudoku() para imprimir la matriz resuelta.
 
+## Tiempo de codificación
+
+Usando la tecnica de pomodoro para realizar este ejercicio el tiempo invertido fue de un total de 10 horas debido a su complejidad.
+
 ## Conclusión
 
 Este código proporciona una implementación simple de un solucionador de Sudoku en Python utilizando el algoritmo de backtracking. El código utiliza bucles anidados, funciones y listas para resolver el Sudoku.
@@ -54,6 +58,10 @@ The function es_valido(y, x, n) checks whether a number n in the position (y, x)
 The function resolver() is the main part of the Sudoku solver. The function uses a backtracking approach to find the solution. The function uses a for loop to iterate through each element in the matrix. If the element is zero, which means it is empty, the function tries all the numbers from 1 to 9 in that position until it finds a valid number using the es_valido() function. If it does not find a valid number, it returns False. If it finds a valid number, it adds it to the matrix and recursively calls the resolver() function to continue with the next element. If a solution is found, the function returns True.
 
 The main() function is the main function of the code. In this function, the Sudoku matrix is initialized as a list of 81 elements, the resolver() function is called to find the solution, and the imprimir_sudoku() function is called to print the solved matrix.
+
+## Coding time
+
+Using the Pomodoro technique to complete this exercise, the total time invested was 10 hours due to its complexity.
 
 ## Conclusion
 
