@@ -36,6 +36,12 @@ Codigo del [Sudoku](https://github.com/davig3t3/Sudoku/blob/main/Sudoku.py).
 
 ***
 
+## Complejidad del algoritmo
+
+![WhatsApp Image 2023-05-02 at 3 18 51 PM](https://user-images.githubusercontent.com/38923604/235777113-250ecc86-4e22-4b7a-bad7-1d9dfdc723a6.jpeg)
+
+***
+
 # Abstract
 # Game in Python 3.9
 
